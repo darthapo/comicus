@@ -1,0 +1,23 @@
+{
+  "name": "comicus-prime",
+  "version": "0.1.0",
+  "description": "Comic SPA",
+  "author": "Matt McCray <matthew.mccray@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "main": "app/boot.js",
+  "homepage": "https://github.com/mattmccray/comicus",
+  "bugs": {
+    "url": "https://github.com/mattmccray/comicus/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattmccray/comicus.git"
+  },
+  "keywords": [
+    "webcomic", "comic", "cms", "spa", "opa", "react", "flux", "static", "php"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
